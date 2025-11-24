@@ -119,7 +119,13 @@ p{
     line-height: 1.6;
     color: #333;
 }
-
+.logo{
+    margin-right: auto;
+}
+.logo img{
+    width: 100px;
+    height:auto;
+}
 .footer{
     text-align: center;
     padding: 20px 0;
