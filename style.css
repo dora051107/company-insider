@@ -36,7 +36,7 @@ p{
     background-color: #047aed;
     color: #fff;
     height: 70px;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
 }
 
 .navbar ul{
@@ -46,7 +46,7 @@ p{
 .navbar a{
     color: #fff;
     padding: 10px; 
-    margin: 0 5px;
+    margin-right: 20px;
 }
 
 .navbar a:hover{
@@ -54,7 +54,7 @@ p{
 }
 
 .navbar .flex{
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 .container{
