@@ -57,7 +57,19 @@ p{
     justify-content: flex-start;
 }
 
+<<<<<<< HEAD
 .navbar .container{
+=======
+.container{
+    max-width: 1100px;
+    margin:0 auto;
+    overflow: auto;
+    padding: 0 40px;
+    display: flexbox;
+    height: 100vh;
+}
+.flex{
+>>>>>>> c9163c0033f8edc99ec2fe1586140e95264e15f8
     display: flex;
     justify-content: space-between;
     padding: 20px;
@@ -118,6 +130,25 @@ p{
 .logo img{
     width: 100px;
     height:auto;
+}
+.sidebar{
+    background-color: #333;
+    color: #fff;
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+}
+.sidebar ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.sidebar li{
+    margin-bottom: 10px;
+}
+.sidebar a{
+    color: #fff;
+    text-decoration: none;
 }
 .footer{
     text-align: center;
