@@ -147,6 +147,10 @@ p{
     color: #fff;
     text-decoration: none;
 }
+.dark-mode{
+    background-color: #333;
+    color: #fff;
+}
 .footer{
     text-align: center;
     padding: 20px 0;
