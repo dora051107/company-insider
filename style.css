@@ -54,12 +54,8 @@ p{
 }
 
 .navbar .flex{
-    justify-content: flex-start;
+    justify-content: flex-star;
 }
-
-<<<<<<< HEAD
-.navbar .container{
-=======
 .container{
     max-width: 1100px;
     margin:0 auto;
@@ -69,7 +65,6 @@ p{
     height: 100vh;
 }
 .flex{
->>>>>>> c9163c0033f8edc99ec2fe1586140e95264e15f8
     display: flex;
     justify-content: space-between;
     padding: 20px;
